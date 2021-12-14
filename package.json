@@ -1,0 +1,11 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/muaazseedat/gitflow.git",
+  "author": "Muaaz Seedat <muaaztest@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
